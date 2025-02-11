@@ -1,6 +1,6 @@
 ---
 description: component style guide
-globs: *.tsx
+globs: 
 ---
 
 # Your rule content
